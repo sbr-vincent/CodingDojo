@@ -1,0 +1,20 @@
+input[value="Search"] {
+    color: rgb(28, 153, 111);
+    width: 120px;
+    background-color: rgb(235, 233, 233);
+    border-radius: 12px;
+    border: 2px solid rgb(28, 153, 111)  
+}
+
+input[value="+"] {
+    color: white;
+    background-color: rgb(28, 153, 111);
+    border-radius: 50%;
+    border:2px solid rgb(28, 153, 111);
+}
+input[value="Create Account"] {
+    color: white;
+    background-color: royalblue;
+    border:1px solid black;
+    box-shadow: 2px 2px black;
+}
